@@ -1,0 +1,16 @@
+D:\code\sandbox\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\code\sandbox\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\code\sandbox\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\code\sandbox\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\code\sandbox\Calculator\Calculator\obj\Debug\App.g.cs
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\code\sandbox\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\code\sandbox\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\code\sandbox\Calculator\Calculator\obj\Debug\App.baml
